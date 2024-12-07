@@ -19,3 +19,7 @@ venv/
 
 # pycharm
 .idea/
+
+# files
+_pythonanywhere_temp.txt
+./djangovet/settings.py
